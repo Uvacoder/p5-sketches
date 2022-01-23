@@ -8,7 +8,7 @@
     "start-compile": "tsc --watch",
     "start-run": "browser-sync start --server -w"
   },
-  "homepage": "https://github.com/alexfertel/p5-sketches",
+  "homepage": "https://p5-sketches.vercel.app",
   "devDependencies": {
     "@types/p5": "^1.3.0",
     "browser-sync": "^2.27.4",
