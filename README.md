@@ -1,3 +1,6 @@
+    "start": "npm-run-all copy:* scss --parallel watch serve",
+    "build": "npm-run-all copy:* scss css",
+
 # P5 Sketches
 
 This is a repo containing my [p5js](https://p5js.org/) sketches.
